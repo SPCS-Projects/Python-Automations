@@ -19,7 +19,7 @@ This collection of Python scripts provides various file and directory operations
    - Downloads all links in a file to a specified path based on URLs.
 
 5. **find_same_size_files.py**
-   - Finds files of that match the size of a given one and copies them to another directory. Currently set up to match .pngs but file paths can be changed and line 5 for extension type
+   - Finds files that match the size of a given one and copies them to another directory. Currently set up to match .pngs but file paths can be changed and line 5 for extension type
 
 6. **find_unique_lines_in_file.py**
    - Finds the unique lines between two given files and outputs to a third
